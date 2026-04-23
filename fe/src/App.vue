@@ -11,7 +11,7 @@
     <div class="phone-vr" style="position: relative; width: 70px; height: 70px; margin-bottom: 15px; cursor: pointer;">
       <div style="width: 70px; height: 70px; background-color: rgba(59, 89, 152, 0.3); border-radius: 50%; position: absolute; top: 0; left: 0; animation: pulse 1.5s infinite;"></div>
       <div style="width: 50px; height: 50px; background: #fff; border-radius: 50%; position: absolute; top: 10px; left: 10px; display: flex; align-items: center; justify-content: center; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        <a target="_blank" href="https://www.facebook.com/thuynhi.1205">
+        <a target="_blank" href="https://www.facebook.com/">
           <img alt="Fanpage" src="https://logos-world.net/wp-content/uploads/2023/08/Facebook-Logo.png" style="width: 200%; height: 200%; padding-right: 100px; object-fit: contain;">
         </a>
       </div>
@@ -20,7 +20,7 @@
     <div class="phone-vr" style="position: relative; width: 70px; height: 70px; margin-bottom: 15px; cursor: pointer;">
       <div style="width: 70px; height: 70px; background-color: rgba(0, 120, 255, 0.3); border-radius: 50%; position: absolute; top: 0; left: 0; animation: pulse 1.5s infinite;"></div>
       <div style="width: 50px; height: 50px; background: #fff; border-radius: 50%; position: absolute; top: 10px; left: 10px; display: flex; align-items: center; justify-content: center; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-        <a target="_blank" href="https://zalo.me/0369636310">
+        <a target="_blank" href="https://zalo.me/0387407471">
           <img alt="Zalo" src="https://cdn.freebiesupply.com/logos/large/2x/zalo-1-logo-png-transparent.png" style="width: 100%; height: 100%; object-fit: contain;">
         </a>
       </div>
