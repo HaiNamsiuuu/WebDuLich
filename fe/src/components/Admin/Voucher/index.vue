@@ -176,7 +176,7 @@
               </div>
 
               <div class="col-12 col-md-6">
-                <label class="form-label fw-bold text-secondary">Hiệu lực đến ngày <span
+                <label class="form-label fw-bold text-secondary">Hiệu lực hết ngày <span
                     class="text-danger">*</span></label>
                 <input type="date" class="form-control" v-model="create_voucher.hieu_luc_den">
               </div>
